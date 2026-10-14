@@ -1,0 +1,9 @@
+*.exe
+*.zip
+*.sqlite3*
+*.dat
+.env*
+*secret*
+credentials*
+bin/
+obj/
